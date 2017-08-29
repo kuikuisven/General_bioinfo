@@ -1,5 +1,10 @@
-"""MINiML import funciton helper
-    does a lot of things.. amazing.
+"""
+    Nicolas Rapin
+    
+    MINiML import funciton helper
+    does a lot of things related to bioinfrmatics anlayses.
+    
+    
 """
 #import MacOS
 from lxml import etree
